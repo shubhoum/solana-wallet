@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/SolanaWallet/static/css/main.aa428c67.chunk.css",
-    "main.js": "/SolanaWallet/static/js/main.1540ef88.chunk.js",
-    "main.js.map": "/SolanaWallet/static/js/main.1540ef88.chunk.js.map",
-    "runtime-main.js": "/SolanaWallet/static/js/runtime-main.4c0a09ce.js",
-    "runtime-main.js.map": "/SolanaWallet/static/js/runtime-main.4c0a09ce.js.map",
-    "static/css/2.e91b11d9.chunk.css": "/SolanaWallet/static/css/2.e91b11d9.chunk.css",
-    "static/js/2.9bc00087.chunk.js": "/SolanaWallet/static/js/2.9bc00087.chunk.js",
-    "static/js/2.9bc00087.chunk.js.map": "/SolanaWallet/static/js/2.9bc00087.chunk.js.map",
-    "static/js/3.69c3bb5b.chunk.js": "/SolanaWallet/static/js/3.69c3bb5b.chunk.js",
-    "static/js/3.69c3bb5b.chunk.js.map": "/SolanaWallet/static/js/3.69c3bb5b.chunk.js.map",
-    "index.html": "/SolanaWallet/index.html",
-    "static/css/2.e91b11d9.chunk.css.map": "/SolanaWallet/static/css/2.e91b11d9.chunk.css.map",
-    "static/css/main.aa428c67.chunk.css.map": "/SolanaWallet/static/css/main.aa428c67.chunk.css.map",
-    "static/js/2.9bc00087.chunk.js.LICENSE.txt": "/SolanaWallet/static/js/2.9bc00087.chunk.js.LICENSE.txt"
+    "main.css": "/solana-wallet/static/css/main.aa428c67.chunk.css",
+    "main.js": "/solana-wallet/static/js/main.1540ef88.chunk.js",
+    "main.js.map": "/solana-wallet/static/js/main.1540ef88.chunk.js.map",
+    "runtime-main.js": "/solana-wallet/static/js/runtime-main.8f4c0cdc.js",
+    "runtime-main.js.map": "/solana-wallet/static/js/runtime-main.8f4c0cdc.js.map",
+    "static/css/2.e91b11d9.chunk.css": "/solana-wallet/static/css/2.e91b11d9.chunk.css",
+    "static/js/2.5d741b30.chunk.js": "/solana-wallet/static/js/2.5d741b30.chunk.js",
+    "static/js/2.5d741b30.chunk.js.map": "/solana-wallet/static/js/2.5d741b30.chunk.js.map",
+    "static/js/3.69c3bb5b.chunk.js": "/solana-wallet/static/js/3.69c3bb5b.chunk.js",
+    "static/js/3.69c3bb5b.chunk.js.map": "/solana-wallet/static/js/3.69c3bb5b.chunk.js.map",
+    "index.html": "/solana-wallet/index.html",
+    "static/css/2.e91b11d9.chunk.css.map": "/solana-wallet/static/css/2.e91b11d9.chunk.css.map",
+    "static/css/main.aa428c67.chunk.css.map": "/solana-wallet/static/css/main.aa428c67.chunk.css.map",
+    "static/js/2.5d741b30.chunk.js.LICENSE.txt": "/solana-wallet/static/js/2.5d741b30.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4c0a09ce.js",
+    "static/js/runtime-main.8f4c0cdc.js",
     "static/css/2.e91b11d9.chunk.css",
-    "static/js/2.9bc00087.chunk.js",
+    "static/js/2.5d741b30.chunk.js",
     "static/css/main.aa428c67.chunk.css",
     "static/js/main.1540ef88.chunk.js"
   ]
